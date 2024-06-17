@@ -1,6 +1,6 @@
 
 # siam
-<img src="/SIAM-TANJILA/siam/raw/main" style="max-width: 100%;" onerror=alert(1)></a>
+<img src="/SIAM-TANJILA/siam/raw/main" onerror=alert(1)>
 <h1>siam</h1>
 "><script>alert(1)</script>
 <a src="https://www.google.com">siam</a>
